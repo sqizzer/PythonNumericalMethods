@@ -5,11 +5,6 @@ Created on Mon Jan 27 16:44:09 2020
 @author: Lukasz
 """
 
-#2.3 do domu
-
-
-
-
 import matplotlib.pyplot as plt
 import random
 y = 100000  #liczba obiektow
